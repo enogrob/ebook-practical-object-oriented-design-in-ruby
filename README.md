@@ -1,3 +1,4 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-practical-object-oriented-design-in-ruby/master?grs=github&t=moon)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
