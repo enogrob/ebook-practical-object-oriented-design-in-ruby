@@ -50,3 +50,7 @@ This book is about designing object-oriented software, and its views the world a
 #### Summary
 
 ---
+
+#### Some Related Links
+
+[Homepage](https://www.pearson.com/us/higher-education/program/Metz-Practical-Object-Oriented-Design-in-Ruby-An-Agile-Primer/PGM274206.html)

@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-practical-object-oriented-design-in-ruby/master?grs=github&t=moon)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-practical-object-oriented-design-in-ruby/master)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
@@ -6,7 +6,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 # eBook Practical Object Oriented Design in Ruby
 
-![ebook image](images/ebook.png)
+![ebook image](assets/ebook.png)
 
 **About**
 
