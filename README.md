@@ -18,17 +18,17 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 Table of Contents
 
-[x] Foreword         xv
-[x] Introduction         xvii
-[x] Acknowledgments         xxi
-[x] About the Author         xxiii
+[ ] Foreword         xv
+[ ] Introduction         xvii
+[ ] Acknowledgments         xxi
+[ ] About the Author         xxiii
 
 Chapter 1: Object-Oriented Design         1
-[x] In Praise of Design   2
-[x] The Tools of Design   4
-[x] The Act of Design   7
-[x] A Brief Introduction to Object-Oriented Programming   11
-[x] Summary 14
+[ ] In Praise of Design   2
+[ ] The Tools of Design   4
+[ ] The Act of Design   7
+[ ] A Brief Introduction to Object-Oriented Programming   11
+[ ] Summary 14
 
 Chapter 2: Designing Classes with a Single Responsibility         15
 [ ] Deciding What Belongs in a Class   16
