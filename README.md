@@ -18,10 +18,10 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 Table of Contents
 
-[ ] Foreword         xv
-[ ] Introduction         xvii
-[ ] Acknowledgments         xxi
-[ ] About the Author         xxiii
+[x] Foreword                 xv
+[x] Introduction             xvii
+[x] Acknowledgments          xxi
+[x] About the Author         xxiii
 
 Chapter 1: Object-Oriented Design         1
 [ ] In Praise of Design   2
