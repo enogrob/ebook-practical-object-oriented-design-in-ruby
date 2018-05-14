@@ -23,29 +23,29 @@ Table of Contents
 [x] Acknowledgments          xxi
 [x] About the Author         xxiii
 
-Chapter 1: Object-Oriented Design         1
-[ ] In Praise of Design   2
-[ ] The Tools of Design   4
-[ ] The Act of Design   7
-[ ] A Brief Introduction to Object-Oriented Programming   11
-[ ] Summary 14
+Chapter 1: Object-Oriented Design  1
+[x] In Praise of Design   2
+[x] The Tools of Design   4
+[x] The Act of Design   7
+[x] A Brief Introduction to Object-Oriented Programming   11
+[x] Summary   14
 
-Chapter 2: Designing Classes with a Single Responsibility         15
-[ ] Deciding What Belongs in a Class   16
-[ ] Grouping Methods into Classes   16
-[ ] Organizing Code to Allow for Easy Changes   16
-[ ] Creating Classes That Have a Single Responsibility   17
-[ ] Writing Code That Embraces Change   24
-[ ] Finally, the Real Wheel   33
-[ ] Summary   34
+Chapter 2: Designing Classes with a Single Responsibility   15
+[x] Deciding What Belongs in a Class   16
+[x] Grouping Methods into Classes   16
+[x] Organizing Code to Allow for Easy Changes   16
+[x] Creating Classes That Have a Single Responsibility   17
+[x] Writing Code That Embraces Change   24
+[x] Finally, the Real Wheel   33
+[x] Summary   34
 
-Chapter 3: Managing Dependencies         35
+Chapter 3: Managing Dependencies   35
 [ ] Understanding Dependencies   36
 [ ] Writing Loosely Coupled Code   39
 [ ] Managing Dependency Direction   51
 [ ] Summary   57
 
-Chapter 4: Creating Flexible Interfaces         59
+Chapter 4: Creating Flexible Interfaces   59
 [ ] Understanding Interfaces   59
 [ ] Defining Interfaces   61
 [ ] Public Interfaces   62
@@ -56,13 +56,13 @@ Chapter 4: Creating Flexible Interfaces         59
 [ ] The Law of Demeter   80
 [ ] Summary   83
 
-Chapter 5: Reducing Costs with Duck Typing         85
+Chapter 5: Reducing Costs with Duck Typing   85
 [ ] Understanding Duck Typing   85
 [ ] Writing Code That Relies on Ducks   95
 [ ] Conquering a Fear of Duck Typing   100
 [ ] Summary   104
 
-Chapter 6: Acquiring Behavior Through Inheritance         105
+Chapter 6: Acquiring Behavior Through Inheritance   105
 [ ] Understanding Classical Inheritance   105
 [ ] Recognizing Where to Use Inheritance   106
 [ ] Misapplying Inheritance   114
@@ -70,12 +70,12 @@ Chapter 6: Acquiring Behavior Through Inheritance         105
 [ ] Managing Coupling Between Superclasses and Subclasses   129
 [ ] Summary 139
 
-Chapter 7: Sharing Role Behavior with Modules         141
+Chapter 7: Sharing Role Behavior with Modules   141
 [ ] Understanding Roles   142
 [ ] Writing Inheritable Code   158
 [ ] Summary   162
 
-Chapter 8: Combining Objects with Composition         163
+Chapter 8: Combining Objects with Composition   163
 [ ] Composing a Bicycle of Parts   164
 [ ] Composing the Parts Object   168
 [ ] Manufacturing Parts   176
@@ -83,7 +83,7 @@ Chapter 8: Combining Objects with Composition         163
 [ ] Deciding Between Inheritance and Composition   184
 [ ] Summary   190
 
-Chapter 9: Designing Cost-Effective Tests         191
+Chapter 9: Designing Cost-Effective Tests   191
 [ ] Intentional Testing   192
 [ ] Testing Incoming Messages   200
 [ ] Testing Private Methods   213
@@ -92,7 +92,7 @@ Chapter 9: Designing Cost-Effective Tests         191
 [ ] Testing Inherited Code   229
 [ ] Summary 240
 
-[ ] Afterword         241
+[ ] Afterword   241
 
-[ ] Index          243
+[ ] Index   243
 ```
