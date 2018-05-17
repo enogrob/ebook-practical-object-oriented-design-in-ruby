@@ -40,10 +40,10 @@ Chapter 2: Designing Classes with a Single Responsibility   15
 [x] Summary   34
 
 Chapter 3: Managing Dependencies   35
-[ ] Understanding Dependencies   36
-[ ] Writing Loosely Coupled Code   39
-[ ] Managing Dependency Direction   51
-[ ] Summary   57
+[x] Understanding Dependencies   36
+[x] Writing Loosely Coupled Code   39
+[x] Managing Dependency Direction   51
+[x] Summary   57
 
 Chapter 4: Creating Flexible Interfaces   59
 [ ] Understanding Interfaces   59
