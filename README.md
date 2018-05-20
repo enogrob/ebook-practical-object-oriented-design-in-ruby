@@ -46,15 +46,15 @@ Chapter 3: Managing Dependencies   35
 [x] Summary   57
 
 Chapter 4: Creating Flexible Interfaces   59
-[ ] Understanding Interfaces   59
-[ ] Defining Interfaces   61
-[ ] Public Interfaces   62
-[ ] Private Interfaces   62
-[ ] Responsibilities, Dependencies, and Interfaces   62
-[ ] Finding the Public Interface   63
-[ ] Writing Code That Puts Its Best (Inter)Face Forward   76
-[ ] The Law of Demeter   80
-[ ] Summary   83
+[x] Understanding Interfaces   59
+[x] Defining Interfaces   61
+[x] Public Interfaces   62
+[x] Private Interfaces   62
+[x] Responsibilities, Dependencies, and Interfaces   62
+[x] Finding the Public Interface   63
+[x] Writing Code That Puts Its Best (Inter)Face Forward   76
+[x] The Law of Demeter   80
+[x] Summary   83
 
 Chapter 5: Reducing Costs with Duck Typing   85
 [ ] Understanding Duck Typing   85
